@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/646596960a6e3cea1e598bfe244ca662e5813537.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/646596960a6e3cea1e598bfe244ca662e5813537_54ca32e57d7b19fa83d8a32cf3d3600b5c197f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/a1093152e8f4f2912cb82495cbb1482531ac9382.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/a1093152e8f4f2912cb82495cbb1482531ac9382_6ed2907bfee0823be229f6ccddd30d55caef661e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/979ba26520a5b482ef72ee687e3a839b4d552c87.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/979ba26520a5b482ef72ee687e3a839b4d552c87_2e0d458d03cf09de5fc7efb41e409ec35c678e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/ed0aa2786243af560cc7930b732c16275d20213d.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/ed0aa2786243af560cc7930b732c16275d20213d_6f8a6c0dcc5be82c55487cef9c99a0a19f3fafdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/bb3e3218001748b4612202f21db36e2828e465db.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/bb3e3218001748b4612202f21db36e2828e465db_38156420f4a08d82c30c42e86c90786a26555792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/805d1f171078bc2c2b4681ca0e278620cd553094.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/805d1f171078bc2c2b4681ca0e278620cd553094_f125c950355564c37b7d26a5ce6f0ad0293492bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/4d2f7d8eda6c07ac7bb133bbbe767aaea0d2fc29.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/4d2f7d8eda6c07ac7bb133bbbe767aaea0d2fc29_8b91dc957546d85047ff98d27e0df3aedb7c8b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/9f2447109753efa491595b39953d5880d383cce7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/9f2447109753efa491595b39953d5880d383cce7_1a9eaea85f36f87da68b502ddb66c5dac4154398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/ad0a20b01827744306438533a972870d68cce507.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/ad0a20b01827744306438533a972870d68cce507_f261e42a36ff5d12536d7a3af9bdf48b00d7dcf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/1f/aspected.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a89e327694de9b25b17714affb04972cbe76becb">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/aspected_8e8db68133c5064c3ceeed5e0c210675639757aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/9c95fc23c6e262cd611b5c17c0a4fcad9698c850.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/9c95fc23c6e262cd611b5c17c0a4fcad9698c850_7e5388085cdc940b299702381825c8eff3beffe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/9e46bbbd3eb2000cfc93328a5e7d26f72111045f.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/9e46bbbd3eb2000cfc93328a5e7d26f72111045f_f7c6ef78c635a93b7376328b0a77c8e667ac2f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/0a8d5c335bf2865069e65cea1a4382e8260cc5b2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/0a8d5c335bf2865069e65cea1a4382e8260cc5b2_b2245640d85a483e13dd2940a6fa8ad72437d5ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/transforms/AspectTransform/debug/jars/1/10/c9ec418a52566718531e7f31ea5bf5fe044ccd90.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sleepeanuty/AndroidStudioProjects/AscpectJ/app/build/intermediates/pre-dexed/debug/c9ec418a52566718531e7f31ea5bf5fe044ccd90_c3f7174eb994f4df87151d597e700106d78fa6de.jar" />
+    </item>
+
+</items>
